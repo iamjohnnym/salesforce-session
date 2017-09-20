@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/iamjohnnym/salesforce-session.svg?branch=master)](https://travis-ci.org/iamjohnnym/salesforce-session)
 [![Coverage Status](https://coveralls.io/repos/github/iamjohnnym/salesforce-session/badge.svg)](https://coveralls.io/github/iamjohnnym/salesforce-session)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cd4bafff657942ae9c58c0fe1155087c)](https://www.codacy.com/app/iamjohnnym/salesforce-session?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=iamjohnnym/salesforce-session&amp;utm_campaign=Badge_Grade)
 
 # SalesForce Session Library
 
